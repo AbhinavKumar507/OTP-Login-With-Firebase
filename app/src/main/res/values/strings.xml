@@ -1,0 +1,7 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">My Application</string>
+    <string name="Continue" tools:ignore="DuplicateDefinition">Continue</string>
+    <string name="enter_your_mobile_number">enter your mobile number</string>
+    <string name="may_i_ask_your_phone_number">May I ask your phone number?</string>
+    <string name="next" translatable="false" />
+</resources>

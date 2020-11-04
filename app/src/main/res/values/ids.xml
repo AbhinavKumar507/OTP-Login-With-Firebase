@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="buttonSignIn" type="id" />
+    <item name="editTextCode" type="id" />
+    <item name="SignOut" type="id" />
+</resources>
